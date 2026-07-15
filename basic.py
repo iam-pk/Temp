@@ -55,7 +55,7 @@ if a == "customer":
     p = input("Enter your Name : ")
     c = input("Enter Table Number : ")
 
-    menu_path = r"D:\code\python\menu.jpg"
+    menu_path = r"D:\code\python\menu.png"
 
     if os.path.exists(menu_path):
         os.startfile(menu_path)
